@@ -1,2 +1,2 @@
 # XMLDBMS
-A simple XML database system
+A simple XML based database system
